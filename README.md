@@ -115,7 +115,7 @@ app/
 # 📥 Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/Riya-Singh-Hash/raitha-Varta.git
 ```
 
 ---
