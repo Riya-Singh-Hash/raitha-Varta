@@ -145,22 +145,6 @@ Shift + F10
 
 ---
 
-# 📱 Screenshots
-
-## Home Screen
-
-(Add screenshot here)
-
-## Swipeable Farming Cards
-
-(Add screenshot here)
-
-## Crop Advisory Cards
-
-(Add screenshot here)
-
----
-
 # 🌟 Future Enhancements
 
 * Kannada language support
